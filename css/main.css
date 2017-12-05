@@ -1,0 +1,26 @@
+h2 {
+  text-align: center;
+}
+
+select{
+  position: relative;
+  left: 620px;
+  outline: 1px solid blue;
+}
+
+.container {
+  position: relative;
+  left: 200px;
+  width: 70%;
+  display: inline-block;
+  outline: 3px dotted red;
+}
+
+.image {
+display: inline-block;
+}
+
+img {
+  width: 220px;
+  height: 150px;
+}
